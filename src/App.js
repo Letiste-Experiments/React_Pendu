@@ -92,7 +92,7 @@ class App extends React.Component {
   }
 
   rejouer() {
-    this.secret = "KEU"
+    this.secret = "PASTEQUE"
     this.setState({
       lettres: [],
       found: false,
